@@ -3913,7 +3913,8 @@
       "pool.iohzrd.tech",
       "omegapool.tech"
     ],
-    "link": "https://omegapool.tech"
+    "link": "https://omegapool.tech",
+    "DATUM": true
   },
   {
     "id": 400,
