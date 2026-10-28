@@ -1992,7 +1992,7 @@
   {
     "id": 188,
     "name": "KC",
-    "addresses": [bc1qrggmfeclm2st7gg53es06fppf00p6usye3yzdd],
+    "addresses": ["bc1qrggmfeclm2st7gg53es06fppf00p6usye3yzdd"],
     "tags": [
       "KC"
     ],
@@ -4635,6 +4635,150 @@
     "addresses": [],
     "tags": [
       "Komodo"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 479,
+    "name": "Tovarisch",
+    "addresses": [],
+    "tags": [
+      "Tovarisch"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 480,
+    "name": "Henny",
+    "addresses": [],
+    "tags": [
+      "Henny"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 481,
+    "name": "0xCAFEBABE",
+    "addresses": [],
+    "tags": [
+      "0xCAFEBABE"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 482,
+    "name": "RED PANDA BLOWS",
+    "addresses": [],
+    "tags": [
+      "RED PANDA BLOWS"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 483,
+    "name": "theSeattleUnfreeze",
+    "addresses": [],
+    "tags": [
+      "theSeattleUnfreeze"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 484,
+    "name": "Sound money for plebs",
+    "addresses": [],
+    "tags": [
+      "Sound money for plebs"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 485,
+    "name": "Hash Bandit",
+    "addresses": [],
+    "tags": [
+      "Hash Bandit"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 486,
+    "name": "SAVAGEPLEB",
+    "addresses": [],
+    "tags": [
+      "SAVAGEPLEB"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 487,
+    "name": "SoloA",
+    "addresses": [],
+    "tags": [
+      "SoloA"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 488,
+    "name": "Jayato",
+    "addresses": [],
+    "tags": [
+      "Jayato"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 489,
+    "name": "TORTAPOUNDER",
+    "addresses": [],
+    "tags": [
+      "TORTAPOUNDER"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 490,
+    "name": "soloB",
+    "addresses": [],
+    "tags": [
+      "soloB"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 491,
+    "name": "Moms Rock",
+    "addresses": [],
+    "tags": [
+      "Moms Rock"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 492,
+    "name": "Hashslingingslasher",
+    "addresses": [],
+    "tags": [
+      "Hashslingingslasher"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 493,
+    "name": "Miningcore",
+    "addresses": [],
+    "tags": [
+      "Miningcore"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 494,
+    "name": "Hc",
+    "addresses": [],
+    "tags": [
+      "Hc"
     ],
     "link": "https://example.com"
   }
