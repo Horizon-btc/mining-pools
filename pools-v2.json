@@ -4997,5 +4997,17 @@
       "Thank you Luke!"
     ],
     "link": "https://example.com"
+  },
+  {
+    "id": 519,
+    "name": "Sentinel Pool",
+    "addresses": [],
+    "tags": [
+      "Sentinel Pool",
+      "BTCB2 Pool\\x0fSovereign DATUM",
+      "BTCB2 Pool\\x0fPool Miner"
+    ],
+    "link": "https://pool.sentineldefensetechnologies.co.za",
+    "DATUM": true
   }
 ]
